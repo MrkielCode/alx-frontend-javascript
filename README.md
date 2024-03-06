@@ -1,1 +1,2 @@
-This is a readme for promises
+This project covers the beginner foundation of
+promises
