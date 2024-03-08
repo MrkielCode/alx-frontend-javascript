@@ -1,2 +1,1 @@
-This project covers the beginner foundation of
-promises
+# ALX FRONTEND SPECIALIATION (JAVACRIPT< REACT)
